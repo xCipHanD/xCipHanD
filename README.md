@@ -6,4 +6,4 @@ I'm an undergraduate student at [Southern University of Science and Technology](
 - 🔭 My future research direction may focus on side-channel attacks and their mitigation.
 
 ## 👋Contact Me
-- 📫 Email: mail@xciphand.icu
+- 📫 Email: mail@x-d.fun
