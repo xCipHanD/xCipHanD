@@ -8,7 +8,5 @@ I'm an undergraduate student at [Southern University of Science and Technology](
 ## 👋Contact Me
 - 📫 Email: mail@x-d.fun
 
-
-![xciphand's Stats](https://github-readme-stats-ten-dusky-26.vercel.app/api?username=xciphand&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![xciphand's Top Languages](https://github-readme-stats-ten-dusky-26.vercel.app/api/top-langs/?username=xciphand&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+## 🌟 Stats
+ ![xciphand's Stats](https://github-readme-stats-ten-dusky-26.vercel.app/api?username=xciphand&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)  ![xciphand's Top Languages](https://github-readme-stats-ten-dusky-26.vercel.app/api/top-langs/?username=xciphand&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) 
