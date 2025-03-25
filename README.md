@@ -7,7 +7,8 @@ I'm an undergraduate student at [Southern University of Science and Technology](
 - 🚩 Current member of [COMPASS CTF Team](https://blog.compassc.tf/) 
 
 ## 👋Contact Me
-- 📫 Email: [mail@x-d.fun](mailto:mail@x-d.fun)
+- 📫 [x@compassc.tf](mailto:x@compassc.tf)
+- 📫 [mail@x-d.fun](mailto:mail@x-d.fun)
 
 ## 🌟 Stats
 
