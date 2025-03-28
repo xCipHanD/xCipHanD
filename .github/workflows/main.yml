@@ -1,0 +1,16 @@
+name: Update WakaTime Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  # Manual triggers with workflow_dispatch
+  workflow_dispatch:
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: xciphand/xciphand@main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
