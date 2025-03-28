@@ -19,18 +19,6 @@ I'm an undergraduate student at [Southern University of Science and Technology](
 
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 188.5 kB Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -41,5 +29,4 @@ Markdown                 43 mins             ███████████�
 ```
 
 
- Last Updated on 28/03/2025 08:44:06 UTC
 <!--END_SECTION:waka-->
