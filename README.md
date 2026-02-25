@@ -21,11 +21,11 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   1 hr 57 mins        ████████████░░░░░░░░░░░░░   46.42 % 
-TypeScript               53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-JavaScript               43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Vue.js                   1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.51 % 
+TypeScript               53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+JavaScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 
